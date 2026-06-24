@@ -11,7 +11,6 @@
 
 No external dependencies. No database setup. Just clone and run.
 
-Codtech Intern ID: CITS3134
 
 </div>
 
