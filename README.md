@@ -123,6 +123,14 @@ This project is licensed under the **MIT License** — feel free to use it for l
 
 ---
 
+## Details
+INTERN ID : CITS3134 | 
+NAME      : YES CHANDRA |
+DURATION  : 4 WEEKS |
+PROJECT NAME : Expense Tracker (CSV/JSON) |
+
+---
+
 <div align="center">
 
 Made with Python and coffee
