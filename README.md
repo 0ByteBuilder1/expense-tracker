@@ -43,6 +43,15 @@ This project intentionally uses **zero third-party packages** — everything is 
 
 ---
 
+##  Screenshots and Output
+
+<p align="center">
+  <img src="screenshots/main.png" width="45%">
+  <img src="screenshots/demo.png" width="45%">
+</p>
+
+---
+
 ##  Getting Started
 
 ### Prerequisites
